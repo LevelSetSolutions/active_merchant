@@ -1,3 +1,5 @@
+**NOTE: This fork exists solely because we needed our pending PRs for fixing the Element gateway to be merged in to the main ActiveMerchant repo. If those PRs get merged at some point, we can safely update our dependent projects, and delete this repo.**
+
 # Active Merchant
 [![Build Status](https://travis-ci.org/activemerchant/active_merchant.png?branch=master)](https://travis-ci.org/activemerchant/active_merchant)
 [![Code Climate](https://codeclimate.com/github/activemerchant/active_merchant.png)](https://codeclimate.com/github/activemerchant/active_merchant)

@@ -1,4 +1,4 @@
-**NOTE: This fork exists solely because we needed our pending PRs for fixing the Element gateway to be merged in to the main ActiveMerchant repo. If those PRs get merged at some point, we can safely update our dependent projects, and delete this repo.**
+**NOTE: This fork exists solely because we needed our pending PRs for fixing the Element gateway to be merged in to the main ActiveMerchant repo. If those PRs get merged at some point, we can safely update our dependent projects, and delete this repo. The PRs are here: https://github.com/activemerchant/active_merchant/pull/2450 and https://github.com/activemerchant/active_merchant/pull/2453**
 
 # Active Merchant
 [![Build Status](https://travis-ci.org/activemerchant/active_merchant.png?branch=master)](https://travis-ci.org/activemerchant/active_merchant)
